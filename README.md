@@ -11,9 +11,15 @@ The class property is the target variable and takes two values: 1 in case of fra
 Step-by-step procedures:
 
 -Division into training and test set
+
 -Standardization
+
 -Training the model
+
 -Model evaluation in test data
+
 -Performance analysis with ROC curve and AUC score
+
 -Exploring the model with different threshold values
+
 -General evaluation of the model
