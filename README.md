@@ -6,7 +6,8 @@ The aim of this project is to detect fraud in credit card transactions using the
 
 TR
 
-Lojistik Regresyon modelini kullanarak kredi kartı işlemlerindeki dolandırıcılığı tespit etmeyi amaçlayacağız. Modelimizi Scikit-learn kütüphanesiyle oluşturacak, eğitim ve test ayrımları yaparak kurduğumuz modelin performansını çeşitli metriklerle değerlendirecek ve ROC eğrisini yorumlayacağız.
+Lojistik Regresyon modeli kullanılarak kredi kartı işlemlerindeki dolandırıcılığın tespit edilmesi amaçlanmıştır. Model, Scikit-learn kütüphanesi kullanılarak oluşturulmuş, eğitim ve test ayrımı yapılarak çeşitli metriklerle değerlendirilmiş ve ROC eğrileri yorumlanmıştır.
+
 
 Sınıf özelliği hedef değişkendir ve iki değer alır: dolandırıcılık durumunda 1, aksi takdirde 0. Veri seti Kaggle'dan alınmıştır.
 
